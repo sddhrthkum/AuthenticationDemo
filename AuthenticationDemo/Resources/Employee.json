@@ -1,0 +1,11 @@
+{
+    "name" : "Siddharth Kumar",
+    "company" : "Litmus7 Consulting System Limited",
+    "empId": "588",
+    "address" : {
+        "addressline1": "2nd Phase, JPNagar",
+        "city" : "Bengaluru",
+        "state" : "Karnataka",
+        "pin" : "576105"
+    }
+}
